@@ -1,7 +1,7 @@
+pub mod utils;
+
 pub mod rc {
-    pub mod utils {
-        pub fn get_name () -> String {
-            return String::from("Richmond Croft")
-        }
+    pub fn rc_function() -> String {
+        return String::from("printing from rc")
     }
 }
