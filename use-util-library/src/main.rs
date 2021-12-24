@@ -1,5 +1,5 @@
 use util_library::rc;
-use util_library::utils::utils;
+use util_library::utils;
 
 fn main() {
     println!("Hello, world!");
